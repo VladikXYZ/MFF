@@ -22,7 +22,7 @@
 | [Software Engineering in Practice](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NSWI149) | 5 | summer | Real-world software engineering methodologies and teamwork. |
 | [Special Functions and Transformations in Image Processing](https://is.cuni.cz/studium/predmety/index.php?do=search&nazev=Speci%C3%A1ln%C3%AD+funkce+a+transformace+ve+zpracov%C3%A1n%C3%AD+obrazu&fak=11320) | 5 | summer | Advanced mathematical transformations used in image analysis. |
 | [Machine Learning in Bioinformatics](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL107) | 5 | summer | Application of ML models to biological and genetic data. |
-| [Artificial Beings]([https://is.cuni.cz/studium/predmety/index.php?do=search&nazev=Um%C4%9Bl%C3%A9+bytosti&fak=11320](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL133)) | 5 | summer | Concepts and architectures behind intelligent virtual agents. |
+| [Artificial Beings](https://is.cuni.cz/studium/predmety/index.php?do=search&nazev=Um%C4%9Bl%C3%A9+bytosti&fak=11320) | 5 | summer | Concepts and architectures behind intelligent virtual agents. |
 | [Artificial Beings 2](https://is.cuni.cz/studium/predmety/index.php?do=search&nazev=Um%C4%9Bl%C3%A9+bytosti+2&fak=11320) | 5 | winter | Advanced topics in creating believable virtual agents and NPCs. |
 | [Introduction to Computational Neuroscience II](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL088) | 5 | summer | Advanced modeling of neural systems and brain functions. |
 | [Variational Methods in Image Processing](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NPGR029) | 5 | summer | Continuous optimization techniques for image segmentation and restoration. |
